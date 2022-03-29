@@ -1,0 +1,23 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarinaBorisovna/AJS-Homework_ESM.git"
+  },
+  "author": "Karina Borisovna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarinaBorisovna/AJS-Homework_ESM/issues"
+  },
+  "homepage": "https://github.com/KarinaBorisovna/AJS-Homework_ESM#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
